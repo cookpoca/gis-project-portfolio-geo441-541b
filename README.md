@@ -13,3 +13,7 @@ Cailin Cook-Porter
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/cookpoca/gis-project-portfolio-geo441-541b/blob/main/Map_Coordinate_Basics/understanding-coordinates.ipynb)
+
+## Spatial Analysis
+
+- [Spatial Analysis for Vector Data](https://github.com/cookpoca/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/GEO441_Week_10_Assignment.ipynb)
