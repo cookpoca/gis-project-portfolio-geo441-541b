@@ -17,3 +17,4 @@ Cailin Cook-Porter
 ## Spatial Analysis
 
 - [Spatial Analysis for Vector Data](https://github.com/cookpoca/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/GEO441_Week_10_Assignment.ipynb)
+- [Working with Census Data](https://github.com/cookpoca/gis-project-portfolio-geo441-541b/blob/main/spatial_analysis/GEO441_Week_12_Assignment.ipynb)
